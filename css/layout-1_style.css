@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+#box{width: 1000px;margin: 0px auto;text-align: center;font-size: 20px;font-weight: bolder;}
+#head{height: 50px;width: 1000px; margin: 10px;}
+.head_left{width: 200px; height: 50px; background-color: #fff;float: left;line-height: 50px;}
+.head_right{width: 780px; height: 50px; background-color: #111;color: #fff;float: left;line-height: 50px;}
+#banner{background-color: #195CB0;color: #fff;height: 300px;margin: 10px;line-height: 300px;}
+#centent{width: 1000px;height: 150px;margin-bottom: 20px;}
+.centent_left{background-color: #333;width: 320px;height: 150px; color: #fff;float: left;margin-left: 10px;margin-top: 10px;
+margin-bottom: 20px;line-height: 150px;}
+.centent_center{background-color: #333;width: 320px;height: 150px; color: #fff;float: left;margin: 10px;line-height: 150px;}
+.centent_right{background-color: #333;width: 320px;height: 150px; color: #fff;float: left;margin-right: 10px;margin-top: 10px;margin-bottom: 20px;line-height: 150px;}
+#footer{width: 980px;height: 40px;background-color: #666;color: #fff;margin: 10px;line-height: 40px;}

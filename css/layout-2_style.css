@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: auto;font-size: 15px;text-align: center;font-weight: 600;}
+#box{width: 980px;}
+#head{height: 20px;background-color: #333;}
+#head2{height: 30px;background-color: #444;color: #fff;line-height: 30px;}
+#banner{height: 240px;background-color: #0792C9;color: #fff;line-height: 240px;}
+#centent{margin: 10px;}
+.centent_1{width: 300px;height: 150px; background-color: #444;color: #fff;margin: 10px;float: left;line-height: 150px;}
+.centent_2{width: 300px;height: 150px; background-color: #444;color: #fff;margin: 10px;float: left;line-height: 150px;}
+.centent_3{width: 300px;height: 150px; background-color: #444;color: #fff;margin: 10px;float: left;line-height: 150px;}
+#footer{width: 940px;height: 40px;color: #fff;margin-top: 190px;background-color: #666;line-height: 40px;}
